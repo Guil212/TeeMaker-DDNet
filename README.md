@@ -1,4 +1,4 @@
-# TeeCup-DDNet-Skin-Maker
+# TeeMaker-DDNet
 A software for skin design, to the game DDNet.
 Simple open-source application for easier creation/design process.
 
